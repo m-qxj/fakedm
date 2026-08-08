@@ -1,0 +1,8 @@
+{
+  "name": "FakeDM Mobile",
+  "description": "Inject fake local messages into DMs on mobile",
+  "author": "Meydoo / Nightcord",
+  "main": "index.js",
+  "version": "1.0.0"
+}
+
