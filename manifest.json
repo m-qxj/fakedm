@@ -3,7 +3,8 @@
   "description": "Inject fake local messages into DMs on mobile",
   "authors": [
     {
-      "name": "mohib"
+      "name": "mohib",
+      "id": "0"
     }
   ],
   "main": "index.js"
